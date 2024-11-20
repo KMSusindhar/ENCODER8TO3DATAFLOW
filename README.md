@@ -68,7 +68,7 @@ RegisterNumber:212223040218
 ![image](https://github.com/user-attachments/assets/cc2e51c9-d539-41c8-baf6-18f4e40041e1)
 
 
-**TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+**TIMING DIAGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
 ![image](https://github.com/user-attachments/assets/840dd02b-413c-4533-b256-035fd7dc5738)
 
